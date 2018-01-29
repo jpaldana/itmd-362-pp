@@ -5,18 +5,19 @@ $("#contact-form").on("submit", function(e) {
   var reEmail = /.*@.*/;
   var reTel = /\d{10}/;
   var formValid = true;
-  
+  $(".user-alert").remove();
+
   if (!reEmail.test(textEmail)) {
     formValid = false;
-
+    $("#contact-form ol").append("<li class='user-alert'>Invalid email address.</li>");
   }
   if (!reTel.test(textTel)) {
     formValid = false;
-
+    $("#contact-form ol").append("<li class='user-alert'>Invalid phone number.</li>");
   }
   if (formValid) {
-    e.preventDefault();
     $(this).remove();
     $("#content").append("<p>Thank you for your input.</p>");
   }
+  e.preventDefault();
 });

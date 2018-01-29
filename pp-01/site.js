@@ -15,6 +15,10 @@ $("#contact-form").on("submit", function(e) {
     formValid = false;
     $("#contact-form ol").append("<li class='user-alert'>Invalid phone number.</li>");
   }
+  if (textDate.length == 0) {
+    formValid = false;
+    $("#contact-form ol").append("<li class='user-alert'>Invalid date of birth.</li>");
+  }
   if (formValid) {
     $(this).remove();
     $("#content").append("<p>Thank you for your input.</p>");

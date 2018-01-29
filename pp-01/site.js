@@ -12,6 +12,11 @@ $("#contact-form").on("submit", function(e) {
   }
   if (!reTel.test(textTel)) {
     formValid = false;
-    
+
+  }
+  if (formValid) {
+    e.preventDefault();
+    $(this).remove();
+    $("#content").append("<p>Thank you for your input.</p>");
   }
 });

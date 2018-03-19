@@ -11,8 +11,8 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=13z0u0k2Lone4Le34FU4NdymBaH
+Your Rationale: I wanted to base the colors off the trend with smartphones and "premium" devices and how they describe their products as made with premium materials (like aluminum or some other metal variant) with accent colors (in this case, a nice, dark shade of blue).
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 

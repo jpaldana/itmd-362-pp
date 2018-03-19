@@ -16,8 +16,8 @@ Your Rationale: I wanted to base the colors off the trend with smartphones and "
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=52J0u0kDoG0lQOmiSzoS2qpEljs
+Your Rationale: I wanted my base color to be a light shade of green to emphasize the idea of spring, a welcome change from the murky weather conditions of the prior season, coupled with bright pastel like shades of yellow (sun) and blue (sky and rain).
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 

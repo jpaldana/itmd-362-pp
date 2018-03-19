@@ -26,5 +26,5 @@ Your Rationale: I went with subtle colors that are easy on the eyes instead of v
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=b2R1Y3J0kbndscHP8cZrBec4Omp1h
+Your Rationale: For some reason, I was originally going to go for something Matrix-esque when I saw "cybersecurity", but rather than just going for black and neon green, I opted for a muted green shade with adjacent blue-indigo and dark golden-beige colors since to me cybersecurity focuses on the small details that are flawed and overlooked rather than the sparkly features that are emphasized in front.

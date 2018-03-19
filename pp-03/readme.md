@@ -21,8 +21,8 @@ Your Rationale: I wanted my base color to be a light shade of green to emphasize
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=33s0u0klZtg82EEgovysZtExBpr
+Your Rationale: I went with subtle colors that are easy on the eyes instead of very bright or very dark colors that can be a distraction (or deterrent) to basic learning.
 
 4. A custom color palette for advertising a course on cybersecurity
 

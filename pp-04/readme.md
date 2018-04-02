@@ -33,5 +33,5 @@ Small commits to your Production Problems repository that include:
 * HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/controls/pickers/
 * How you implemented it in your sketch: For year-related picker entries (such as choosing the grades for a specific academic term), separate the year and term into two pickers: one for the year and one for the term (Spring, Summer, Fall or Professional Learning) instead of the existing dropdown of: "[Year] Professional Learning", "Spring [Year]", etc.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/app-architecture/modality/
+* How you implemented it in your sketch: Certain interactions such as email links and calendar events can be loaded into and shown in a modal to streamline the ability to display content. In the sketch, clicking the 'contact us' email allows the user to send a quick email and then return to the same view afterwards.

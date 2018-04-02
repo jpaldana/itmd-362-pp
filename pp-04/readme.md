@@ -28,8 +28,7 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/views/split-views/
-* How you implemented it in your sketch: For larger screens, utilize a split view with side-by-side content to allow the user to quickly navigate between sections. Keep sections grouped up by related content. Since the left side is primarily for navigations for menu items, the right side will be larger to accomodate for content. On mobile devices, the split view will act as separate views.
-
+* How you implemented it in your sketch: For larger screens, utilize a split view with side-by-side content to allow the user to quickly navigate between sections. Keep sections grouped up by related content. Since the left side is primarily for navigations for menu items in a table, the right side will be larger to accomodate for content. On mobile devices, the split view will act as separate views.
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:

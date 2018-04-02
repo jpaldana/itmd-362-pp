@@ -30,8 +30,8 @@ Small commits to your Production Problems repository that include:
 * HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/views/split-views/
 * How you implemented it in your sketch: For larger screens, utilize a split view with side-by-side content to allow the user to quickly navigate between sections. Keep sections grouped up by related content. Since the left side is primarily for navigations for menu items in a table, the right side will be larger to accomodate for content. On mobile devices, the split view will act as separate views.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/controls/pickers/
+* How you implemented it in your sketch: For year-related picker entries (such as choosing the grades for a specific academic term), separate the year and term into two pickers: one for the year and one for the term (Spring, Summer, Fall or Professional Learning) instead of the existing dropdown of: "[Year] Professional Learning", "Spring [Year]", etc.
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
